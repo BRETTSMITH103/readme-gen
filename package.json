@@ -1,15 +1,24 @@
 {
-  "name": "14-Ins_Inquirer-Demo",
+  "name": "readme-gen",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "[   ##https://avatars1.githubusercontent.com/u/57337218?v=4   ##brettsmith103@gmail.com    ## brettsmith103     ##Electronic Mail     ##HTML,CSS,JavaScript,SQL,Mongo   ]",
+  "main": "script2.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brettsmith103/readme-gen.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brettsmith103/readme-gen/issues"
+  },
+  "homepage": "https://github.com/Brettsmith103/readme-gen#readme",
   "dependencies": {
-    "inquirer": "^6.5.0"
-  }
+    "axios": "^0.19.2",
+    "inquirer": "^7.0.4"
+  },
+  "devDependencies": {}
 }
