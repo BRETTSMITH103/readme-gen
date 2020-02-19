@@ -67,7 +67,7 @@ inquirer
 
   #Avatar
 
-  [avatar photo](${readMeAns.avatar_url})
+  ![avatar photo](${readMeAns.avatar_url})
 
   ## Email
   ${readMeAns.email}
